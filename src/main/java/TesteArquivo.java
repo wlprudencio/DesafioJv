@@ -7,19 +7,17 @@ public class TesteArquivo {
     public static void leitura(String path ) throws IOException{
         BufferedReader buffRead = new BufferedReader(new FileReader(path));
         String linha = "";
+        System.out.println("é");
 
-        while(true){
-
-            if(linha != null){
+        while (true) {
+            if (linha != null) {
                 System.out.println(linha);
 
-            }else{
-                linha = buffRead.readLine();
+            } else
                 break;
-
-            }
-             buffRead.close();
+            linha = buffRead.readLine();
         }
-
+        buffRead.close();
     }
 }
+
