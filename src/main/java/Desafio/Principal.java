@@ -1,3 +1,7 @@
+package Desafio;
+
+import Desafio.TesteArquivo;
+
 import java.io.IOException;
 
 public class Principal {
