@@ -1,4 +1,1 @@
-1 - Qual seu nome completo?
-2 - Qual seu email de contato?
-3 - Qual sua idade?
-4 - Qual sua altura?
+1. null2. null3. null4. null

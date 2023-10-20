@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6e3d00e9-389f-4551-a554-22e8dfe985c6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio.md" beforeDir="false" afterPath="$PROJECT_DIR$/desafio.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Desafio/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TesteArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Desafio/TesteArquivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulario.txt" beforeDir="false" afterPath="$PROJECT_DIR$/formulario.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CadastroDes/Cadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cadastro/Cadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CadastroDes/TesteCadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cadastro/TesteCadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Desafio/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Desafio/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Desafio/TesteArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Desafio/TesteArquivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Nova/Desktop/Wallace - trabalhos/teste"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nova/Desktop/Wallace - trabalhos/teste&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio.Principal" />

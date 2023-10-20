@@ -1,4 +1,4 @@
-package CadastroDes;
+package Cadastro;
 
 import java.util.Scanner;
 
